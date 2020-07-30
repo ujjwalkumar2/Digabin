@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068306440896",
+    "firebase_url": "https://digabin.firebaseio.com",
+    "project_id": "digabin",
+    "storage_bucket": "digabin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068306440896:android:2972078d8a3b45dd81c325",
+        "android_client_info": {
+          "package_name": "com.codinghelper.digabin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068306440896-21059ocao1eqk1i5vh3cqeedu5b8o0d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3kdrH8r2bHhpYkEuNwBQD-XiPnRDM2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068306440896-21059ocao1eqk1i5vh3cqeedu5b8o0d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
